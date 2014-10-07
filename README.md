@@ -4,6 +4,14 @@ Four variables visualized in D3, uses topojson &amp; force layout. (Variables: s
 ##Status
 Far from optimal. Numerous optimizations & improvements are possible (search for "TODO" in the source). Provided as a sketch or starting point for further data visualizations.
 
+Provides non-trival examples for the following:
+* dynamic SVG paths & animations
+* force layout management
+* transforms
+* data-bound UI elements
+* event handling & UI consistency
+* d3 scales and data model consistency
+
 ##Live Demo
 [Sex, politics, & gender income gaps in the U.S.](http://www.visualmagnetic.com/html/sex-politics-income/)
 
