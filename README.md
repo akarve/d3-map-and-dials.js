@@ -6,14 +6,14 @@ Far from optimal. Numerous optimizations & improvements are possible (search for
 
 ###Community value
 Provides non-trival examples for the following:
-* dynamic SVG paths & animations
-* force layout management
-* transforms
-* data-bound UI elements
-* event handling & UI consistency
-* d3 scales and data model consistency
-* custom data glyphs
-* d3 axes & labels
+* Dynamic SVG paths & animations
+* Force layout management
+* Transforms
+* Custom, data-bound UI elements
+* Event handling & UI consistency
+* D3 scales and data model consistency
+* Custom data glyphs
+* D3 axes & labels
 
 ##Live Demo
 [Sex, politics, & gender income gaps in the U.S.](http://www.visualmagnetic.com/html/sex-politics-income/)
