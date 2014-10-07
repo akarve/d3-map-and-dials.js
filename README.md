@@ -4,7 +4,7 @@ Three variables visualized by U.S. state in D3.
 ##Preview image
 ![Map: Sex, politics, & gender income gaps in the U.S.](http://www.visualmagnetic.com/wp-content/uploads/2014/08/states-high-1024x694.jpg)
 
-##Live Demo
+##Live demo
 [Sex, politics, & gender income gaps in the U.S.](http://www.visualmagnetic.com/html/sex-politics-income/)
 
 ##Status
