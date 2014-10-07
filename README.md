@@ -1,8 +1,8 @@
-#Interactive map
-Three variables visualized by U.S. state in D3.
-
-##Preview image
 ![Map: Sex, politics, & gender income gaps in the U.S.](http://www.visualmagnetic.com/wp-content/uploads/2014/08/states-high-1024x694.jpg)
+![Force layout: Sex, politics, & gender income gaps in the U.S.](http://www.visualmagnetic.com/wp-content/uploads/2014/08/state-bubbles-high-1024x693.jpg)
+
+#Interactive map to explore multi-variate data by state
+Three variables visualized by U.S. state in D3.
 
 ##Live demo
 [Sex, politics, & gender income gaps in the U.S.](http://www.visualmagnetic.com/html/sex-politics-income/)
